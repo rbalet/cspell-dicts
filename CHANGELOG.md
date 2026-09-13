@@ -1,5 +1,19 @@
 # Release Notes
 
+## [33.15.4](https://github.com/streetsidesoftware/cspell-dicts/compare/cspell-dicts@33.15.3...cspell-dicts@33.15.4) (2026-09-13)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Update Dictionaries ([#5726](https://github.com/streetsidesoftware/cspell-dicts/issues/5726)) ([d0fad5b](https://github.com/streetsidesoftware/cspell-dicts/commit/d0fad5b41be89e5e5d4c39eeebd3767a645ad5ba))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @cspell/dict-cspell-bundle bumped to 2.0.76
+
 ## [33.15.3](https://github.com/streetsidesoftware/cspell-dicts/compare/cspell-dicts@33.15.2...cspell-dicts@33.15.3) (2026-09-12)
 
 
